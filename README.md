@@ -24,11 +24,7 @@ pip install -r requirements.txt
 
 This project aims to detect American Sign Language (ASL) gestures using TensorFlow Object Detection. To get started:
 
-1. Run the detection script:
-
-```bash
-python detect_asl.py
-```
+1. Run the detection script
 
 2. Follow on-screen instructions or check the detected ASL gestures.
 
