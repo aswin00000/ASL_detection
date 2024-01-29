@@ -1,5 +1,3 @@
-Certainly! Here's a simplified README template for the provided GitHub repository:
-
 ```markdown
 # ASL Detection using TensorFlow Object Detection
 
