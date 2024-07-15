@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For more information, visit the [GitHub repository](https://github.com/aswin00000/ASL_detection).
 ```
 
-Please replace `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)` with the appropriate license badge if needed.
+
